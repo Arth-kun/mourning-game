@@ -35,3 +35,11 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+Library/assetDatabase3
+
+*.mdb
+
+Temp/__Backupscenes/0\.backup
+
+Library/
